@@ -1,0 +1,58 @@
+﻿  Game.cpp
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(76,81): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(76,81): warning C4244:         with
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(76,81): warning C4244:         [
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(76,81): warning C4244:             T=int
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(76,81): warning C4244:         ]
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(76,81): warning C4244:         and
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(76,81): warning C4244:         [
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(76,81): warning C4244:             T=float
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(76,81): warning C4244:         ]
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(76,69): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(76,69): warning C4244:         with
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(76,69): warning C4244:         [
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(76,69): warning C4244:             T=int
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(76,69): warning C4244:         ]
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(76,69): warning C4244:         and
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(76,69): warning C4244:         [
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(76,69): warning C4244:             T=float
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(76,69): warning C4244:         ]
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(80,84): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(80,84): warning C4244:         with
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(80,84): warning C4244:         [
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(80,84): warning C4244:             T=int
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(80,84): warning C4244:         ]
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(80,84): warning C4244:         and
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(80,84): warning C4244:         [
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(80,84): warning C4244:             T=float
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(80,84): warning C4244:         ]
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(80,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(80,72): warning C4244:         with
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(80,72): warning C4244:         [
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(80,72): warning C4244:             T=int
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(80,72): warning C4244:         ]
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(80,72): warning C4244:         and
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(80,72): warning C4244:         [
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(80,72): warning C4244:             T=float
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(80,72): warning C4244:         ]
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(91,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(91,46): warning C4244:         with
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(91,46): warning C4244:         [
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(91,46): warning C4244:             T=unsigned int
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(91,46): warning C4244:         ]
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(95,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(95,46): warning C4244:         with
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(95,46): warning C4244:         [
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(95,46): warning C4244:             T=unsigned int
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(95,46): warning C4244:         ]
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(102,65): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(102,65): warning C4244:         with
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(102,65): warning C4244:         [
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(102,65): warning C4244:             T=unsigned int
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(102,65): warning C4244:         ]
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(102,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(102,45): warning C4244:         with
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(102,45): warning C4244:         [
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(102,45): warning C4244:             T=unsigned int
+C:\Users\AdMin\source\repos\jeeXX\jeeXX\Game.cpp(102,45): warning C4244:         ]
+  jeeXX.vcxproj -> C:\Users\AdMin\source\repos\jeeXX\x64\Debug\jeeXX.exe
